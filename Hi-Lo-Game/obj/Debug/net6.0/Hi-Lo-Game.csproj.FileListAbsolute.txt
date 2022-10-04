@@ -1,0 +1,15 @@
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.csproj.AssemblyReference.cache
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.AssemblyInfoInputs.cache
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.AssemblyInfo.cs
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.csproj.CoreCompileInputs.cache
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\bin\Debug\net6.0\Hi-Lo-Game.exe
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\bin\Debug\net6.0\Hi-Lo-Game.deps.json
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\bin\Debug\net6.0\Hi-Lo-Game.runtimeconfig.json
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\bin\Debug\net6.0\Hi-Lo-Game.dll
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\bin\Debug\net6.0\Hi-Lo-Game.pdb
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.dll
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\refint\Hi-Lo-Game.dll
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.pdb
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\Hi-Lo-Game.genruntimeconfig.cache
+C:\Users\ltsto\Desktop\Programming-with-Classes\Hi-Lo-Game\obj\Debug\net6.0\ref\Hi-Lo-Game.dll
