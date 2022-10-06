@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ltsto\\Desktop\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj": {}
+    "C:\\Users\\esteb\\Desktop\\Programming with classes\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ltsto\\Desktop\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj": {
+    "C:\\Users\\esteb\\Desktop\\Programming with classes\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ltsto\\Desktop\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\Desktop\\Programming with classes\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj",
         "projectName": "Hi-Lo-Game",
-        "projectPath": "C:\\Users\\ltsto\\Desktop\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj",
-        "packagesPath": "C:\\Users\\ltsto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ltsto\\Desktop\\Programming-with-Classes\\Hi-Lo-Game\\obj\\",
+        "projectPath": "C:\\Users\\esteb\\Desktop\\Programming with classes\\Programming-with-Classes\\Hi-Lo-Game\\Hi-Lo-Game.csproj",
+        "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esteb\\Desktop\\Programming with classes\\Programming-with-Classes\\Hi-Lo-Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ltsto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
