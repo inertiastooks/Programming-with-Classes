@@ -66,29 +66,3 @@ static void Main(string[] args)
 
 }
 }
-
-
-
-/*
-        int score = 300;
-        //string? player_guess = player.players_guess();
-
-        if ((player_guess == "h") && (card_1 > card_2))
-        {
-            Console.WriteLine("Your card is Higher, +100 points");
-            int new_score = score + 100; 
-            Console.WriteLine($"The new score is {new_score}");
-            return new_score;
-        } 
-
-        ||
-        else if ((player_guess == "l") && (card_1 > card_2))
-        {
-            Console.WriteLine("New card is Lower, -75 points");
-            int new_score = score - 75; 
-            Console.WriteLine($"The new score is {new_score}");
-            return new_score;
-        }
-
-        else return score;
-*/
