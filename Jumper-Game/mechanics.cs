@@ -5,6 +5,9 @@ class Mechanics{
 static void Main(string[] args){
 
     Parachute parachute = new Parachute();
+    Dictionary dictionary = new Dictionary();
+   
+
     while (parachute.is_alive == true){
         parachute.show_jumper();
         //parachute.break_chute();
